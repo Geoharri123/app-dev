@@ -1,6 +1,6 @@
 # Favorite Series / Movies
 ---
-- **Game of Trone** (Your pick)
+- **Game of Trone**
 - **Why I like it:** Complex characters, political intrigue, and unpredictable twists keep every episode exciting.
 ---
 - **Interstellar**
